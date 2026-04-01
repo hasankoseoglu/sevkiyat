@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1775035596535",
+    "tarih": "2026-04-02",
+    "adres": "Bergama",
+    "urunler": [
+      {
+        "adi": "BM6320MA",
+        "miktar": 1
+      },
+      {
+        "adi": "cga252xtr",
+        "miktar": 2
+      }
+    ],
+    "durum": "tamamlandı"
+  },
+  {
+    "id": "1775036110134",
+    "tarih": "2026-04-03",
+    "adres": "manisa",
+    "urunler": [
+      {
+        "adi": "bm6320ma",
+        "miktar": 1
+      },
+      {
+        "adi": "cga242x0tr",
+        "miktar": 2
+      }
+    ],
+    "durum": "tamamlandı"
+  },
+  {
+    "id": "1775036661530",
+    "tarih": "2026-04-03",
+    "adres": "bursa",
+    "urunler": [
+      {
+        "adi": "bm6320ma",
+        "miktar": 1
+      },
+      {
+        "adi": "cga242x0tr",
+        "miktar": 1
+      },
+      {
+        "adi": "bd2036wenn",
+        "miktar": 2
+      }
+    ],
+    "durum": "iptal"
+  }
+]
